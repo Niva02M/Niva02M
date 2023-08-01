@@ -7,7 +7,7 @@ As an enthusiastic CSIT student diving headfirst into the exciting realm of fron
 
 
 
-🧠 I'm currently learning React Framework.
+🧠 I'm currently learning React.js.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niva-maharjan/)
