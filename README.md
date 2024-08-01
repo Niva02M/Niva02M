@@ -2,9 +2,11 @@
 
 As an enthusiastic CSIT student diving headfirst into the exciting realm of front-end development. I may be a beginner, but I'm super eager to learn and make my mark in the industry.<br><br>🧠 I'm currently learning React.js.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niva-maharjan/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/nivamaharjann) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/https://twitter.com/nivamaharjann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/https://twitter.com/nivamaharjann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niva-maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niva-maharjan" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
