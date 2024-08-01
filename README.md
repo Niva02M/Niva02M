@@ -1,4 +1,4 @@
-# <h1 align="center">💫Hi 👋, I'm Niva Maharjan</h1>
+<h1 align="center"> 💫Hi 👋, I'm Niva Maharjan </h1>
 
 As an enthusiastic CSIT student diving headfirst into the exciting realm of front-end development. I may be a beginner, but I'm super eager to learn and make my mark in the industry.<br><br>🧠 I'm currently learning React.js.
 
