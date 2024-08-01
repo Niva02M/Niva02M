@@ -12,5 +12,5 @@ As an enthusiastic CSIT student diving headfirst into the exciting realm of fron
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Niva02M&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niva02M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Niva02M&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
