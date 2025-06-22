@@ -1,7 +1,12 @@
 <h1 align="center"> 💫Hi 👋, I'm Niva Maharjan </h1>
 
-As an enthusiastic CSIT student diving headfirst into the exciting realm of front-end development. I may be a beginner, but I'm super eager to learn and make my mark in the industry.<br><br>🧠 I'm currently learning React.js.
+🌟 Front-End Developer | Learning React & Node.js
 
+I'm a passionate front-end developer diving deeper into modern web technologies. Though early in my career, I’m driven by a strong desire to learn, grow, and build engaging, user-focused experiences.
+
+<br>
+🧠 Currently learning React.js and Node.js
+🚀 Excited to collaborate, solve real-world problems, and make an impact in tech!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/https://twitter.com/nivamaharjann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/https://twitter.com/nivamaharjann" height="30" width="40" /></a>
