@@ -19,11 +19,10 @@ Frontend developer focused on building clean, responsive, and user-centered inte
 [![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net)
 
 ## 🔗 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nivamaharjan001.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niva-maharjan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nivamaharjann)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niva02M&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niva02M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
