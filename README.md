@@ -1,9 +1,9 @@
-<p align="center">
-  <h1 align="center" style="color:#bd93f9;">Hi, I'm Niva Maharjan</h1>
-  <p align="center" style="color:#f8f8f2; font-size:18px;">Frontend Developer | React & Next.js Enthusiast</p>
+<p >
+  <h1  style="color:#bd93f9;">Hi, I'm Niva Maharjan</h1>
+  <p  style="color:#f8f8f2; font-size:18px;">Frontend Developer | React & Next.js Enthusiast</p>
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/niva-maharjan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -17,8 +17,8 @@
 
 ---
 
-<h2 align="center" style="color:#bd93f9;">🛠 Tech Stack</h2>
-<p align="center">
+<h2 style="color:#bd93f9;">🛠 Tech Stack</h2>
+<p >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
